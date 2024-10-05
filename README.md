@@ -6,7 +6,11 @@
     <span style="font-size: 24px; font-weight: bold;">Video Converter Premium Free</span>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/CodeByDante/Video-Converter/releases/download/Converter/video.converter.apk">
+    <img src="https://img.shields.io/badge/Descargar%20Video%20Converter-4B0082?style=for-the-badge&logo=android&logoColor=white" alt="Descargar Video Converter"/>
+  </a>
+</p>
 
 **Video Converter** es la caja de herramientas de video completa para convertir, comprimir y editar videos. Convierte instantáneamente tus películas y música en lotes, y guarda archivos multimedia en cualquier formato para cualquier dispositivo o plataforma.
 
